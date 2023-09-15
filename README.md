@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @helgebplassen
-- 👀 I’m interested in Acoustic Physics, theoretical physics
+- 👀 I’m interested in Acoustic Physics, Computational methods in Physics
 
 <!---
 helgebplassen/helgebplassen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
